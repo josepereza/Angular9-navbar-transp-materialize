@@ -1,0 +1,12 @@
+.cuerpo {
+   
+    height: 100vh;
+    background-position: center center;
+
+    background-image: url("../../assets/imagenes/bosque.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    
+}
